@@ -20,6 +20,7 @@ Develop a Python workflow capable of analysing player statistics to support recr
 ## Technologies
 
 - Python
+- Tableau
 - Pandas
 - NumPy
 - Matplotlib
